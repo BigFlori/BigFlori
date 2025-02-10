@@ -11,7 +11,7 @@
 
   <h2>About Me</h2>
   <p>
-    I'm 23 years old (turning 23 this March). I study in Szombathely at ELTE Savaria University Center, where I'm pursuing a degree in Computer Science.
+    I'm turning 23 years old this March. I study in Szombathely at ELTE Savaria University Center, where I'm pursuing a degree in Computer Science.
     <br>
     I'm passionate about programming, especially Java and backend development. Currently, I work as a Junior Java Backend Developer at Ivy Technology, where I have the opportunity to work on real-world projects and constantly improve my skills.
     <br>
