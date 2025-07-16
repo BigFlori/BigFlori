@@ -3,7 +3,7 @@
 
   <h1>Molnár Flórián</h1>
   <p>
-    Computer Science Student @ ELTE & Junior Java Backend Developer @ Ivy Technology
+    BSc in Computer Science @ ELTE & Java Backend Developer @ iAKOS
   </p>
   <br>
 
@@ -11,9 +11,9 @@
 
   <h2>About Me</h2>
   <p>
-    I'm 23 years old. I study in Szombathely at ELTE Savaria University Center, where I'm pursuing a degree in Computer Science.
+    I'm 23 years old and hold a BSc degree in Computer Science from ELTE Savaria University Center in Szombathely.
     <br>
-    I'm passionate about programming, especially Java and backend development. Currently, I work as a Junior Java Backend Developer at Ivy Technology, where I have the opportunity to work on real-world projects and constantly improve my skills.
+    I'm passionate about programming, especially Java and backend development. Currently, I work as a Java Backend Developer at iAKOS, where I contribute to enterprise-level Spring Boot projects and continuously enhance my skills.
     <br>
     In my free time, I enjoy reading, watching series, and exploring new technologies.
   </p>
@@ -32,7 +32,10 @@
   <h2>Work Experience</h2>
   <ul>
     <li>
-      <b>Ivy Technology</b> - Junior Java Backend Developer
+      <b>iAKOS</b> – Java Backend Developer
+    </li>
+    <li>
+      <b>Ivy Technology</b> – Junior Java Backend Developer
     </li>
   </ul>
 
