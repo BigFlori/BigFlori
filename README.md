@@ -11,7 +11,7 @@
 
   <h2>About Me</h2>
   <p>
-    I'm 23 years old and hold a BSc degree in Computer Science from ELTE Savaria University Center in Szombathely.
+    I'm 24 years old and hold a BSc degree in Computer Science from ELTE Savaria University Center in Szombathely.
     <br>
     I'm passionate about programming, especially Java and backend development. Currently, I work as a Java Backend Developer at iAKOS, where I contribute to enterprise-level Spring Boot projects and continuously enhance my skills.
     <br>
